@@ -157,7 +157,7 @@ h3 {
         width: auto;
     }
 }
-.servicios,.navegacion-principal,.formulario {
+.servicios,.navegacion-principal,.formulariogit  {
     scroll-snap-align: center;
     scroll-snap-stop: always;
 }
